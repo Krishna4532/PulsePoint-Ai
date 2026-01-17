@@ -20,3 +20,7 @@ Language: Python
 AI Models: Google Gemini, OpenAI Whisper
 
 Video Processing: MoviePy (v2.0)# PulsePoint-Ai
+
+demo video:-
+https://github.com/user-attachments/assets/589f2ef0-b894-4fe3-9133-2029abc9112a
+
